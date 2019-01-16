@@ -5,5 +5,9 @@ Robot with 4 degrees of freedom, collision detector (including sound). It is als
 
 Team:
 Jan Michalik,
+
 Bartlomiej Borzyszkowski,
-Gdansk University of Technology 2018
+
+Gdansk University of Technology 
+
+05/2018
